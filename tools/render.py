@@ -1,6 +1,6 @@
 """Genera la grafica di un post (PNG 1080x1350) per Autospurghi Tonetto.
 
-Uso: python3 tools/render.py dati.json output.png
+Uso: python3 tools/render.py dati.json output.jpg   (usare .jpg: TikTok non accetta PNG)
 dati.json: {"categoria": "...", "titolo1": "...", "titolo2": "...",
             "sottotitolo": "...", "punti": ["...", "..."], "nota": "..."}
 """
@@ -60,7 +60,7 @@ def main():
         b = p.chromium.launch(executable_path="/usr/bin/google-chrome")
         pg = b.new_page(viewport={"width": 1080, "height": 1350})
         pg.set_content(build(d), wait_until="networkidle")
-        pg.screenshot(path=str(out))
+        pg.screenshot(path=str(out), type="jpeg", quality=92) if out.suffix.lower() in (".jpg", ".jpeg") else pg.screenshot(path=str(out))
         b.close()
     print(out)
 
