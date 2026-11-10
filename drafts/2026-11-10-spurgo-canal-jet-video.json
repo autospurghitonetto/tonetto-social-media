@@ -1,0 +1,12 @@
+{
+  "categoria": "Il nostro lavoro",
+  "hook1": "Come funziona",
+  "hook2": "il canal-jet",
+  "scene": [
+    {"titolo": "Si apre il pozzetto", "testo": "Si individua il tratto da pulire, si delimita l'area di lavoro e si apre il pozzetto più vicino."},
+    {"titolo": "Acqua ad alta pressione", "testo": "Una manichetta con ugello entra nel tubo: i getti d'acqua staccano sedimenti, grassi e incrostazioni."},
+    {"titolo": "Aspirazione dei residui", "testo": "Il materiale smosso viene aspirato nella cisterna del mezzo, senza lasciarlo in strada."},
+    {"titolo": "Trasporto all'impianto", "testo": "I rifiuti liquidi viaggiano con il formulario fino a un impianto autorizzato al trattamento."}
+  ],
+  "chiusura": "Tubo intasato? Chiamateci"
+}
