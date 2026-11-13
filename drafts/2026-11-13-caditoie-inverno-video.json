@@ -1,0 +1,11 @@
+{
+  "categoria": "Stagione e domande frequenti",
+  "hook1": "Caditoie sporche?",
+  "hook2": "3 segnali",
+  "scene": [
+    {"titolo": "Acqua che ristagna", "testo": "Dopo la pioggia restano pozzanghere attorno alla griglia: l'acqua non riesce più a scendere nel pozzetto."},
+    {"titolo": "Griglia coperta", "testo": "Foglie, terra e rifiuti tappano la grata. In autunno succede in pochi giorni, soprattutto vicino agli alberi."},
+    {"titolo": "Cattivi odori", "testo": "Odore di marcio dal tombino vuol dire fango e sedimenti fermi sul fondo del pozzetto."}
+  ],
+  "chiusura": "Pulitele prima dell'inverno"
+}
