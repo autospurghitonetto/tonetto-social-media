@@ -1,0 +1,12 @@
+{
+  "categoria": "Il nostro lavoro",
+  "hook1": "Fossa settica?",
+  "hook2": "Come si svuota",
+  "scene": [
+    {"titolo": "Si apre il chiusino", "testo": "Individuiamo la fossa, delimitiamo l'area e apriamo i coperchi in sicurezza, senza scavi."},
+    {"titolo": "Aspirazione", "testo": "Con la pompa del mezzo aspiriamo fanghi e liquami: tutto finisce nella cisterna chiusa, niente cattivi odori in giro."},
+    {"titolo": "Controllo della vasca", "testo": "Verifichiamo vasca, ingresso e uscita dei tubi. Se serve, laviamo le pareti e liberiamo le tubazioni."},
+    {"titolo": "Smaltimento a norma", "testo": "I rifiuti liquidi viaggiano con il formulario fino a un impianto autorizzato al trattamento."}
+  ],
+  "chiusura": "Svuotatela prima che sia piena"
+}
