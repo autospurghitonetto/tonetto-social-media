@@ -1,0 +1,11 @@
+{
+  "categoria": "Riduzione rifiuti 21-29 nov",
+  "hook1": "Meno rifiuti?",
+  "hook2": "3 gesti in casa",
+  "scene": [
+    {"titolo": "Panni lavabili", "testo": "Per pulire usate panni in microfibra al posto delle salviette usa e getta: meno spazzatura e niente tubi intasati."},
+    {"titolo": "Olio in un barattolo", "testo": "L'olio di frittura raffreddato va in un barattolo e poi all'isola ecologica: così viene recuperato, non disperso."},
+    {"titolo": "Detersivi dosati", "testo": "Usate la dose giusta e preferite le ricariche: meno flaconi da buttare e meno prodotti chimici negli scarichi."}
+  ],
+  "chiusura": "Ridurre si può, ogni giorno"
+}
