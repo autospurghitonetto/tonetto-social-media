@@ -1,0 +1,12 @@
+{
+  "categoria": "Il nostro lavoro",
+  "hook1": "Tubo bloccato?",
+  "hook2": "Guardiamoci dentro",
+  "scene": [
+    {"titolo": "La telecamera entra", "testo": "Dal pozzetto inseriamo una telecamera su sonda o carrellino, che avanza dentro la tubazione senza scavi."},
+    {"titolo": "Le immagini dal vivo", "testo": "Sul monitor vediamo l'interno del tubo: radici, crepe, tratti schiacciati, incrostazioni o oggetti incastrati."},
+    {"titolo": "Il punto esatto", "testo": "Registriamo la posizione del problema, così si interviene solo dove serve, senza rompere pavimenti a caso."},
+    {"titolo": "Dopo lo spurgo", "testo": "Utile anche dopo la pulizia con canal-jet: si controlla che la condotta sia davvero libera."}
+  ],
+  "chiusura": "Prima di scavare, guardate dentro"
+}
