@@ -1,0 +1,11 @@
+{
+  "categoria": "Stagione e domande frequenti",
+  "hook1": "Arriva il gelo?",
+  "hook2": "Proteggete i tubi",
+  "scene": [
+    {"titolo": "Isolate i tubi esposti", "testo": "Tubi in garage, cantina, sottotetto o all'esterno: rivestiteli con guaine isolanti, contatore compreso."},
+    {"titolo": "Svuotate i rubinetti", "testo": "Chiudete la valvola dei rubinetti da giardino e lasciateli aperti per far uscire l'acqua: quella ferma ghiaccia."},
+    {"titolo": "Niente acqua bollente", "testo": "Tubo ghiacciato? Scaldatelo piano con un phon o panni caldi. L'acqua bollente può crepare tubi e raccordi."}
+  ],
+  "chiusura": "Prevenire è meglio che riparare"
+}
